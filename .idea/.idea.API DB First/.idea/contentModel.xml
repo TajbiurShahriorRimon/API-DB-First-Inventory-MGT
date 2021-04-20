@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\ASUS\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\ASUS\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_API DB First.-1815612592.00" t="ExcludeRecursive" />
+    <e p="D:\ASP Dot Net Projects\API DB First" t="IncludeFlat">
+      <e p="API DB First" t="IncludeRecursive">
+        <e p="API DB First.csproj" t="IncludeRecursive" />
+        <e p="App_Data" t="Include" />
+        <e p="App_Start" t="Include">
+          <e p="WebApiConfig.cs" t="Include" />
+        </e>
+        <e p="Attributes" t="Include">
+          <e p="BasicAuthenticationAttribute.cs" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Controllers" t="Include">
+          <e p="CategoryController.cs" t="Include" />
+          <e p="ProductController.cs" t="Include" />
+        </e>
+        <e p="Global.asax" t="Include" />
+        <e p="Global.asax.cs" t="Include" />
+        <e p="Models" t="Include">
+          <e p="Category.cs" t="Include" />
+          <e p="Link.cs" t="Include" />
+          <e p="Model1.Context.cs" t="Include" />
+          <e p="Model1.Context.tt" t="Include" />
+          <e p="Model1.cs" t="Include" />
+          <e p="Model1.Designer.cs" t="Include" />
+          <e p="Model1.edmx" t="Include" />
+          <e p="Model1.edmx.diagram" t="Include" />
+          <e p="Model1.tt" t="Include" />
+          <e p="Product.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Repositories" t="Include">
+          <e p="CategoryRepository.cs" t="Include" />
+          <e p="IRepository.cs" t="Include" />
+          <e p="ProductRepository.cs" t="Include" />
+          <e p="Repository.cs" t="Include" />
+        </e>
+        <e p="Web.config" t="Include" />
+        <e p="Web.Debug.config" t="Include" />
+        <e p="Web.Release.config" t="Include" />
+      </e>
+      <e p="API DB First.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
